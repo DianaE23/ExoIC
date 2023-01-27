@@ -13,5 +13,5 @@ jobs:
       with:
         server: files.000webhost.com
         username: projetdiana
-        password: RF7HA1#bXeuVhEng5LrY
+        password: projetdiana
         server-dir : public_html/
